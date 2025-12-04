@@ -1,0 +1,32 @@
+Hello everyone! I’m Jogyalabharath, Frontend Development Intern at Cognifyz Technologies.
+
+In this video, I’m going to present all the tasks I have completed for my internship.
+
+📌 Level 1
+I built a basic web page using HTML and then improved it using inline CSS for styling.
+
+📌 Level 2
+I made the webpage responsive using external CSS and media queries.
+Then, I used JavaScript to add a button that changes the background color when clicked.
+
+📌 Level 3
+I implemented API integration using fetch() to dynamically display user data from a public API.
+Next, I created a contact form with proper validation such as required fields and email format check.
+
+📌 Level 4
+I created a clean UI using Bootstrap for a professional design.
+Finally, I used Sass for styling with variables, nesting, and compiling SCSS to CSS.
+
+All tasks are completed successfully and structured level-wise in my project folder.
+Thank you Cognifyz Technologies for this opportunity. I look forward to learning more during my internship journey!
+
+Thank you for watching!
+
+
+| While speaking | Show on screen                        |
+| -------------- | ------------------------------------- |
+| Intro          | Folder with Level1–Level4             |
+| Level 1        | HTML page + inline CSS                |
+| Level 2        | Responsive view + button action       |
+| Level 3        | API results showing + form validation |
+| Level 4        | Bootstrap Page + Sass styled card     |

@@ -1,0 +1,23 @@
+$primary: #0e5de8;
+$bg: #eef3fa;
+
+body {
+  background-color: $bg;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+.btn-primary {
+  background-color: $primary;
+  border: none;
+
+  &:hover {
+    background-color: darken($primary, 10%);
+  }
+}

@@ -1,0 +1,50 @@
+body {
+    background-color: #eef3fa;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+h2 {
+    color: #0e5de8;
+}
+
+h3 {
+    color: #34495e;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+img {
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+    
+    p {
+        font-size: 16px;
+    }
+
+    img {
+        width: 200px;
+    }
+}

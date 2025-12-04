@@ -1,0 +1,21 @@
+body {
+  background-color: #eef3fa;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary {
+  background-color: #0e5de8;
+  border: none;
+}
+.btn-primary:hover {
+  background-color: rgb(11.0975609756, 73.7195121951, 183.9024390244);
+}
+
+/*# sourceMappingURL=styles.css.map */
